@@ -1,0 +1,1 @@
+id = None #this is the process to declare globle variable
